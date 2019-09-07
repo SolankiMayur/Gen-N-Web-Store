@@ -37,8 +37,8 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `admin_name`, `admin_password`) VALUES
-(1, 'dvs', '123'),
-(2, 'pratik', '123');
+(1, 'mike', '123'),
+(2, 'mayur', '123');
 
 -- --------------------------------------------------------
 
