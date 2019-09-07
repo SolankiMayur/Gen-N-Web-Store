@@ -1,0 +1,7 @@
+Brand:	Fujitsu
+Family Line:	Lifebook	Operating System:	DOS
+Type:	Notebook	Processor:	Intel Core i3 (4th Generation)
+Usage Type:	Budget	Memory:	8 GB
+Warranty:	Manufacturer Warranty	Hard Drive Capacity:	500 GB
+Duration:	1 year	Bundled Items:	Wi-Fi, WebCam
+Serviced In India:	Yes	SSD Capacity:	Not Specified (Others)

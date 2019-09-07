@@ -1,0 +1,19 @@
+GENERAL SPECIFICATIONS
+Interface	USB 3.0
+Brand	Sandisk
+Capacity (GB)	16 GB
+Model	Ultra USB 3.0
+LED Indication	No
+Type	Flash Drive
+Case Material	Plastic
+OS Supported	Mac
+Form Factor	Standard Flash Drive
+Features	High Speed & Comes with SanDisk SecureAccess Software Keeps Files Private
+Color	Black
+WARRANTY
+Covered in Warranty	Manufacturing Defects only
+Service Type	Replacement from nearest service center
+Warranty Summary	5 Years Warranty
+Not Covered in Warranty	Burnt or Physically Damaged
+DIMENSIONS
+Dimensions	56.8 x 21.3 x 10.8 mm

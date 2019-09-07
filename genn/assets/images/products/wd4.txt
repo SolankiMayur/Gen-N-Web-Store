@@ -1,0 +1,16 @@
+Brand	WD
+Model	WDBU6Y0020BBK
+Type	Portable External Hard Drive
+Part Number	WDBU6Y0020BBK
+Connectivity	USB 3.0
+OS Supported	Formatted NTFS for Windows: XP, Vista, 7, 8, Mac OS X: 10.6.5 (Requires Reformatting)
+Form Factor	Portable
+Transfer Speed	USB 3.0: 5 Gb/s
+External Power Required	No
+Color	Black
+Features	Quick Install Guide, USB Cable, High-capacity in a Sleek Design, Long-term Reliability, Durable Enclosure Designed, Pro Backup Software, Backward Compatibility with USB 2.0, Operating Temperature Range: 5 Deg C - 35 Deg C, Non-operating Temperature Range: -20 Deg C - 65 Deg C
+In The Box	Hard Drive, USB Cable
+Weight	234 g
+Dimensions	111 x 82.4 x 21 mm
+Model Name	Elements - 2 TB
+Capacity	2 TB

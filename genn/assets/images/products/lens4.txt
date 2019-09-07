@@ -1,0 +1,11 @@
+
+Lens Construction (Elements/Groups)	7 elements in 6 groups (with one aspherical lens element)
+Picture Angle with 35mm (135) format	47°
+Picture Angle with Nikon DX Format	31°30'
+Minimum f/stop	f/16
+Closest focusing distance	0.45 m
+Maximum reproduction ratio	0.15X
+Filter Attachment Size	58mm
+Lens Cap	Snap-on
+Lens Hood	HB-47
+Lens Case	CL-1013

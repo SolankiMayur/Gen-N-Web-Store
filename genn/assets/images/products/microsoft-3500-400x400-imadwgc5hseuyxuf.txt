@@ -1,0 +1,14 @@
+GENERAL SPECIFICATIONS
+Interface	Wireless
+Brand	Microsoft
+Buttons	3 Buttons
+Model	3500
+Dimensions	2.25 / 3.75 inch
+Part Number	GMF-00006
+OS Supported	Windows: 7, Vista, XP (Excluding Windows XP 64-bit)
+Platform	PC
+Color	Black
+Features	BlueTrack Technology, Plug-And-Go Nano Transceiver, 8 Month Battery Life, On/Off switch, Comfortable in Either Hand
+Technology	BlueTrack
+WARRANTY
+Warranty Summary	3 Year Warranty
