@@ -91,7 +91,7 @@ CREATE TABLE IF NOT EXISTS `company` (
 --
 
 INSERT INTO `company` (`c_id`, `org_name`, `owner_name`, `c_username`, `c_password`, `c_email`, `c_mno`, `c_city`, `c_address`, `c_pcode`, `c_icon`) VALUES
-(4, 'Kishan Store', 'KIshan Ranpara', 'kbranpara', 'kbranpara', 'kbranpara@yahoo.com', 9638481988, 'Morbi', 'Modi street, "Nilkanth",\r\nMorbi-363 641', 363641, 'kishan.jpg'),
+(4, 'Mike Store', 'Mayur Solanki', 'mayurmike', 'mayurmike', 'mayurmike@yahoo.com', 9586338995, 'Diu', 'Main street, "Bander Chowk",\r\nDou-362540', 362540, 'kishan.jpg'),
 (3, 'Himanshu & Company', 'Himanshu Bhavsar', 'hbhavsar', 'hbhavsar', 'hbhavsar@gmail.com', 9033252102, 'Rajkot', 'Dhrol city, Rajkot District', 360001, '123.jpg'),
 (2, 'Ashok Infotech', 'Ashok Chavda', 'akchavda', '123456', 'akchavda007@gmail.com', 7567500150, 'Morbi', 'Bypass road, Kamdhenu Circle,\r\nMorbi-363 641', 363641, 'ashok.jpg'),
 (8, 'Unitech Computers', 'Sumit Parekh', 'skparekh', 'skparekh', 'skparekh@gmail.com', 9033955765, 'Morbi', '"kamlesh", Ayodhyapuri Road,\r\nMorbi-363 641', 363641, 'sumit.jpg'),
@@ -249,7 +249,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`u_id`, `u_name`, `u_username`, `u_password`, `u_email`, `u_mno`, `u_city`, `u_address`, `u_pcode`) VALUES
-(9, 'Dhrupal Ranpara', 'dr_ranpara', '123', 'dr_ranpara@rediffmail.in', 9979180845, 'Morbi', 'DarbarGadh, Derasar Seri, "Shreeji Krupa", Morbi.', 363641),
+(9, 'mike', 'mike', '1997', 'mike1997@gmail.in', 9586338995, 'Diu', 'Near Hosital,Ghoghla ', 362520),
 (10, 'Chirag Soni', 'ca_soni', '123', 'ca_ranpara@yahoo.com', 8758528048, 'Vadodra', 'White Palaca, Flat no.603, Vadodra', 456789),
 (11, 'Akash Ashokan', 'aa_ezhava', '123', 'akash_ashokan@gmail.com', 9277653114, 'Rajkot', 'rajkot city, "Ashokan"', 360001),
 (12, 'steve jobs', 'st_jobs', '123', 'st_jobs@gmail.com', 9435893580, 'Aligarh', 'nthi khbr...!', 360001),
